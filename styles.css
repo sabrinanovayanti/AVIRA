@@ -120,8 +120,8 @@ a:hover {
     font-size: 20px;
   }
   .bot #script-section-bottom iframe {
-    width: 350px;
-    height: 65vh;
+    width: 100%;
+    height: 70%;
     border: none;
     padding-left: 0px;
     padding-top: 10px;
