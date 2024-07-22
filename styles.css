@@ -94,7 +94,7 @@ a:hover {
 @media only screen and (max-width: 768px) {
   .bot {
     width: 100%;
-    height: 100vh; /* make it full screen height */
+    height: 100%; /* make it full screen height */
     background-color: rgb(162, 252, 165); /* keep the green background */
     display: flex;
     flex-direction: column;
@@ -121,7 +121,7 @@ a:hover {
   }
   .bot #script-section-bottom iframe {
     width: 340px;
-    height: 70%;
+    height: 60%;
     border: none;
     padding-left: 0px;
     padding-top: 10px;
