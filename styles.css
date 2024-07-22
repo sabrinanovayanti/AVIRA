@@ -94,7 +94,7 @@ a:hover {
 @media only screen and (max-width: 768px) {
   .bot {
     width: 100%;
-    height: 100%; /* make it full screen height */
+    height: 200vh; /* make it full screen height */
     background-color: rgb(162, 252, 165); /* keep the green background */
     display: flex;
     flex-direction: column;
