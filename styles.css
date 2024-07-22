@@ -114,11 +114,12 @@ a:hover {
     padding: 0;
     background-color: transparent;
   }
-  #script-section-bottom h2 {
+    .bot #script-section-bottom h2 {
     width: 380px;
     padding-right: 20px;
-    font-size: 20px;
+    font-size: 30px;
   }
+
   .bot #script-section-bottom iframe {
     width: 100%;
     height: 60%;
